@@ -1,5 +1,13 @@
 # Blog Website Project
 
+# How To Run
+
+1. Clone this repository
+2. Run `npm install` in terminal for install
+3. Run `npm run dev` in terminal for running project
+4. Install VS CODE Extension Live Server
+5. Right click on index.html then open with live server
+
 ## Overview
 
 This is my first frontend project developed during a bootcamp, transforming a Figma design into a responsive web application using Tailwind CSS.
@@ -30,14 +38,6 @@ This is my first frontend project developed during a bootcamp, transforming a Fi
 - Pixel-perfect implementation of Figma design
 - Modular Tailwind CSS classes
 - Avoided inline styling
-
-# How To Run
-
-1. Clone this repository
-2. Run `npm install` in terminal for install
-3. Run `npm run dev` in terminal for running project
-4. Install VS CODE Extension Live Server
-5. Right click on index.html then open with live server
 
 ## Learning Outcomes
 
