@@ -14,7 +14,7 @@ This is my first frontend project developed during a bootcamp, transforming a Fi
 
 ## Figma
 
-![Figma design](https://www.figma.com/design/jfco4hCfEwf5IZnwch17Fa/dibimbing-blog?t=J2IQS3rrFChdS1xI-0)
+[Figma design](https://www.figma.com/design/jfco4hCfEwf5IZnwch17Fa/dibimbing-blog?t=J2IQS3rrFChdS1xI-0)
 
 ## Features
 
