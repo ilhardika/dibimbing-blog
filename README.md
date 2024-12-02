@@ -12,6 +12,10 @@
 
 This is my first frontend project developed during a bootcamp, transforming a Figma design into a responsive web application using Tailwind CSS.
 
+## Figma
+
+![Figma design](https://www.figma.com/design/jfco4hCfEwf5IZnwch17Fa/dibimbing-blog?t=J2IQS3rrFChdS1xI-0)
+
 ## Features
 
 - Responsive design
